@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+scikit-learn
+pypdf
+numpy==1.26.4
+nltk
