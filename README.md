@@ -1,5 +1,7 @@
 # AI Policy Semantic Search Engine
 
+**Streamlit Link: eu-ai-act-semantic-search.streamlit.app/**
+
 This project is a semantic search engine for the EU's Artificial Intelligence Act. It allows users to ask questions in natural language and retrieve the most contextually relevant clauses from the legal document.
 
 This project was built to demonstrate a core component of a **Retrieval-Augmented Generation (RAG)** system, showcasing the ability to process, embed, and search qualitative text data for efficient information retrieval.
